@@ -21,7 +21,7 @@ __1.__ Create a ROS2 workspace and clone the required repos:
 mkdir -p ~/roomba_ws/src
 cd ~/roomba_ws
 
-wget https://raw.githubusercontent.com/process1183/roomba-rpi/master/software/roomba_ros2/roomba_ros2.repos
+wget https://raw.githubusercontent.com/process1183/roomba-ros2/main/roomba_ros2.repos
 
 vcs import src < roomba_ros2.repos
 ```
