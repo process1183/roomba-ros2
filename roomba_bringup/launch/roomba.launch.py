@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Roomba base launch file
-https://github.com/process1183/roomba-rpi
+https://github.com/process1183/roomba-ros2
 Copyright (C) 2022  Josh Gadeken
 
 This program is free software: you can redistribute it and/or modify
